@@ -1,6 +1,6 @@
 # React - Employee Directory
 
-Application using React framework.  Properly break up the user interface into components. 
+Application using React framework.  Properly break up the user interface into components. Use the Random User API to generate conten for the application.
 
 ## GitHub Repository
 
@@ -30,4 +30,4 @@ The application opens with a listing of employees.  Fields include name, email, 
 
 ###  Application Screenshot
 
-![application](https://github.com/eaborden/progressivebudget/blob/master/public/images/application.PNG?raw=true)
+![application](https://github.com/eaborden/react_emp_dir/blob/master/public/images/application.PNG?raw=true)
