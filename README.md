@@ -31,4 +31,4 @@ The application opens with a listing of employees.  Fields include name, email, 
 
 ###  Application Screenshot
 
-![application](https://github.com/eaborden/react_emp_dir/blob/master/public/images/application.PNG?raw=true)
+![application](https://github.com/eaborden/react_emp_dir/blob/master/images/application.PNG?raw=true)
