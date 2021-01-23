@@ -27,6 +27,10 @@ The application opens with a listing of employees.  Fields include name, email, 
 1. Search by typing in an employees name,
 2. Sort on a field
 
+# Fututure Development
+
+Incorporate sorting functionality.
+
 ## Project Images
 
 ###  Application Screenshot
